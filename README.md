@@ -46,6 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+<img width="521" alt="Screenshot 2023-12-11 152731" src="https://github.com/srishanth2006/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150319470/bc407e4a-d406-40dd-bb61-bd559f542d70">
+
 
 ### Name:
 ### Register Number:
