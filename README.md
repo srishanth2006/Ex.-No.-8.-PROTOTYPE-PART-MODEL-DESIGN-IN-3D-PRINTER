@@ -50,7 +50,8 @@
 
 
 ### Name:SRISHANTH J
-### Register Number:23006248
+### Register Number:212223240160
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
